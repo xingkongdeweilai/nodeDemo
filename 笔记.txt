@@ -1,0 +1,2 @@
+1、const http = require('http');//引入 required 模块
+2、fs.readFile(文件路径, 逻辑处理(err, data){})

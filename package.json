@@ -1,0 +1,19 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "node demo",
+  "main": "server/server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "liulijian",
+  "license": "ISC"
+}
